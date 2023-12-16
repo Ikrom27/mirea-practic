@@ -1,0 +1,70 @@
+<mxfile host="Electron" modified="2023-12-16T19:46:10.120Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="wTyXpr0LaQx1FFVUKDUv" version="22.1.2" type="device">
+  <diagram name="Страница — 1" id="dI7vLvLZwqIRt6VPlLzn">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vClvPdnk7geCH-4fsWN2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vClvPdnk7geCH-4fsWN2-1" target="vClvPdnk7geCH-4fsWN2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-2" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="350" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vClvPdnk7geCH-4fsWN2-3" target="vClvPdnk7geCH-4fsWN2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-3" value="Информировать об услугах" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vClvPdnk7geCH-4fsWN2-4" target="vClvPdnk7geCH-4fsWN2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-4" value="Приготовить блины" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vClvPdnk7geCH-4fsWN2-5" target="vClvPdnk7geCH-4fsWN2-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-5" value="Обслужить посетителей" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vClvPdnk7geCH-4fsWN2-10" target="vClvPdnk7geCH-4fsWN2-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-10" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vClvPdnk7geCH-4fsWN2-13" target="vClvPdnk7geCH-4fsWN2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-13" value="Приготовить тесто" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vClvPdnk7geCH-4fsWN2-14" target="vClvPdnk7geCH-4fsWN2-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-14" value="Жарить тесто на сковороде" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="180" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vClvPdnk7geCH-4fsWN2-15" target="vClvPdnk7geCH-4fsWN2-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-15" value="15 мин" style="shape=delay;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vClvPdnk7geCH-4fsWN2-19" target="vClvPdnk7geCH-4fsWN2-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-19" value="Выложить блины на тарелкук" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vClvPdnk7geCH-4fsWN2-21" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
